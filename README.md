@@ -41,8 +41,8 @@ python main.py
 2. Enter your guess
 3. The game will respond:
 
-   * 📉 Too Low → Try a higher number
-   * 📈 Too High → Try a lower number
+   * 📉 Higher number Please → Try a higher number
+   * 📈 Lower number please → Try a lower number
 4. Keep guessing until you find the correct number
 5. Your total attempts will be shown at the end
 
